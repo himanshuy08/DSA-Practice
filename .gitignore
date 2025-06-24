@@ -1,0 +1,15 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+#Ignore DSA Sheet
+DSA Sheet/
+
