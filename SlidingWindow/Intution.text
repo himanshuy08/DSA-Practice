@@ -1,0 +1,1 @@
+For finding maximum sum of subarray of size k: use Sliding Window Approach by maintaining a window of size k, updating the sum as the window slides, and tracking the maximum.
