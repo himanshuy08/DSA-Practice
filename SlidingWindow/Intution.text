@@ -1,1 +1,2 @@
-For finding maximum sum of subarray of size k: use Sliding Window Approach by maintaining a window of size k, updating the sum as the window slides, and tracking the maximum.
+1. For finding maximum sum of subarray of size k: use Sliding Window Approach by maintaining a window of size k, updating the sum as the window slides, and tracking the maximum.
+2. First Negative Number in Every Window of Size k : Use Sliding Window Technique by maintaining a window of size k with two pointers (start, end) and a queue to keep track of negative numbers inside the window. For each window, the front of the queue gives the first negative element. If no negative is found, add 0 to the result. Slide the window forward by removing outdated indices and updating the result efficiently.
