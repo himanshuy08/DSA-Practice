@@ -1,0 +1,1 @@
+To check whether number is Odd or Even : use num & 1 — if the result is 1, it's odd; otherwise, it's even.
