@@ -1,1 +1,5 @@
 To check whether number is Odd or Even : use num & 1 — if the result is 1, it's odd; otherwise, it's even.
+To check ith bit is set : using left ((N&(1<<i)!=0)) or using right ((N>>i)&1==0)
+To set ith bit : (N|(1<<i))
+To clear ith bit : N&~(1<<i)
+To toggle ith bit : N^(1<<i)
